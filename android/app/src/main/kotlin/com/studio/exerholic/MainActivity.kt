@@ -1,4 +1,4 @@
-package com.exerholic.exerholic
+package com.studio.exerholic
 
 import io.flutter.embedding.android.FlutterActivity
 
